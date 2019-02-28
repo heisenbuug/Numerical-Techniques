@@ -1,0 +1,3 @@
+## Least Square Approximation
+
+Least squares method, also called least squares approximation, in statistics, a method for estimating the true value of some quantity based on a consideration of errors in observations or measurements. In particular, the line (the function yi = a + bxi, where xi are the values at which yi is measured and i denotes an individual observation) that minimizes the sum of the squared distances (deviations) from the line to each observation is used to approximate a relationship that is assumed to be linear. That is, the sum over all i of (yi − a − bxi)2 is minimized by setting the partial derivatives of the sum with respect to a and b equal to 0. The method can also be generalized for use with nonlinear relationships.
